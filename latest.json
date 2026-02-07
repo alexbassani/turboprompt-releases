@@ -7,8 +7,8 @@
       "message": "Melhorias de segurança e sistema de notificação de atualizações."
     },
     "grok-animator": {
-      "version": "2.1.2",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "2.1.3",
+      "message": "Melhorias no fluxo de geração de vídeos a partir de imagens. Correção de erro ao gerar vídeos a partir de Prompts."
     },
     "imagefx": {
       "version": "5.1.4",
