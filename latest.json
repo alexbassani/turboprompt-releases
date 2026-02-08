@@ -27,12 +27,8 @@
       "message": "Melhorias de segurança e sistema de notificação de atualizações."
     },
     "sora": {
-      "version": "2.1.2",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
-    },
-    "sora-auto-save": {
-      "version": "1.1.2",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "2.1.3",
+      "message": "Correções do caminhos para Download Automático. Criação de Aba Imagem e Aba Vídeo"
     },
     "turboflow": {
       "version": "2.1.2",
