@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-02-07",
+  "updatedAt": "2026-02-08",
   "kiwifyUrl": "https://kiwify.com.br/",
   "extensions": {
     "autowhisk": {
-      "version": "4.4.2",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "4.4.3",
+      "message": "Correção no sistema de verificação de atualizações."
     },
     "grok-animator": {
-      "version": "2.1.3",
-      "message": "Melhorias no fluxo de geração de vídeos a partir de imagens. Correção de erro ao gerar vídeos a partir de Prompts."
+      "version": "2.1.4",
+      "message": "Novo botão Verificar Atualizações. Correção no sistema de verificação de atualizações."
     },
     "imagefx": {
-      "version": "5.1.4",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "5.1.5",
+      "message": "Correção no sistema de verificação de atualizações."
     },
     "meta-ai-basic": {
-      "version": "4.2.3",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "4.2.4",
+      "message": "Correção no sistema de verificação de atualizações."
     },
     "meta-ai-full": {
-      "version": "5.3.3",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "5.3.4",
+      "message": "Correção no sistema de verificação de atualizações."
     },
     "piclumen": {
-      "version": "4.1.2",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "4.1.3",
+      "message": "Correção no sistema de verificação de atualizações."
     },
     "sora": {
       "version": "2.1.5",
       "message": "Novo botão Verificar Atualizações no popup! Sidebar premium com abas Vídeo e Imagem, download automático, nomenclatura automática."
     },
     "turboflow": {
-      "version": "2.1.2",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "2.1.3",
+      "message": "Novo botão Verificar Atualizações. Correção no sistema de verificação de atualizações."
     },
     "turboprompt-veo3": {
-      "version": "1.0.2",
-      "message": "Melhorias de segurança e sistema de notificação de atualizações."
+      "version": "1.0.3",
+      "message": "Correção nos seletores do Modo Turbo (Create Image, Nano Banana Pro, Outputs per prompt). Correção no sistema de verificação de atualizações."
     }
   }
 }
