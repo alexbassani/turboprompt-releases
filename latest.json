@@ -27,8 +27,8 @@
       "message": "Melhorias de segurança e sistema de notificação de atualizações."
     },
     "sora": {
-      "version": "2.1.3",
-      "message": "Correções do caminhos para Download Automático. Criação de Aba Imagem e Aba Vídeo"
+      "version": "2.1.4",
+      "message": "Sora 100% funcional! Sidebar premium com abas Vídeo e Imagem, download automático via menu 3-dot, nomenclatura automática, popup compacto."
     },
     "turboflow": {
       "version": "2.1.2",

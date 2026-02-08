@@ -78,7 +78,8 @@ Commit, push, e pronto. Os alunos que tiverem a versão 5.3.3 instalada verão o
 
 ```bash
 # 1. Ir para o repositório turboprompt-releases
-#    (geralmente em D:\_Projetos\turboprompt-releases)
+#    Clone local: D:\_Projetos\turboprompt\_releases
+#    (clone do repo github.com/alexbassani/turboprompt-releases dentro do repo principal)
 
 # 2. Editar o latest.json:
 #    - Alterar "version" da extensão para a versão nova
@@ -136,7 +137,6 @@ git push origin main
 | `meta-ai-full` | TurboPrompt META AI FULL |
 | `piclumen` | TurboPrompt PicLumen |
 | `sora` | TurboPrompt Sora |
-| `sora-auto-save` | TurboPrompt Sora Video Auto Save |
 | `turboflow` | TurboPrompt TurboFlow |
 | `turboprompt-veo3` | TurboPrompt VEO3 Video Generator |
 
