@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08",
+  "updatedAt": "2026-02-11",
   "kiwifyUrl": "https://kiwify.com.br/",
   "extensions": {
     "autowhisk": {
@@ -7,8 +7,8 @@
       "message": "Correção no sistema de verificação de atualizações."
     },
     "grok-animator": {
-      "version": "2.1.4",
-      "message": "Novo botão Verificar Atualizações. Correção no sistema de verificação de atualizações."
+      "version": "2.1.5",
+      "message": "Novo slider de delay extra ajustável (0-15s) antes do download para vídeos e imagens. Evita downloads corrompidos em conexões lentas."
     },
     "imagefx": {
       "version": "5.1.5",
